@@ -1,6 +1,4 @@
-# 👋 Ciao, sono [Michy]
-
-![Header Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1abc9c&width=800&lines=Benvenuto+nel+mio+profilo,+sono+Michy+🚀)
+![Header Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1abc9c&width=800&lines=Ciao+sono+Michy)
 
 ---
 
@@ -61,7 +59,7 @@ Mi piace imparare facendo progetti concreti, passo dopo passo.
 
 ##  Motto
 
-> "Per aspera ad astra" 
+>### "Per aspera ad astra" 
 
 ---
 
