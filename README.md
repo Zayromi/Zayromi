@@ -63,9 +63,6 @@ Al momento sto studiando e provando:
 
 
 ---
-> Test
-![trophy](https://github-profile-trophy.vercel.app/?username=Zayromi&theme=onedark&column=7&margin-w=10&margin-h=15)
----
 
 ## Motto
 > ###  "Per aspera ad astra" 💫
