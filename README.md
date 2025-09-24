@@ -4,7 +4,7 @@
 
 ## 💼 Chi sono
 
-Ciao! Sono uno **studente di seconda superiore** appassionato di tecnologia, programmazione ed elettronica.  
+Ciao! Sono uno **studente di seconda ITIS** appassionato di tecnologia, programmazione ed elettronica.  
 Adoro imparare **facendo progetti**
 
 Al momento sto studiando e provando:
