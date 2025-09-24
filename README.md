@@ -16,7 +16,7 @@ Al momento sto studiando e provando:
 
 ---
 
-## 🛠️ Competenze & Tools
+## 🛠️ Quello che voglio imparare 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
