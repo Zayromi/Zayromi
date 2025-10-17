@@ -34,8 +34,9 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 
 ## 🌐 Contatti
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mi_chyii/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mlmichyiyiy@gmail.com)
+[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)](https://www.instagram.com/mi_chyii/)
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:mlmichyiyiy@gmail.com)
+[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](https://github.com/zayromi)
 
 ---
 
