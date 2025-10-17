@@ -18,9 +18,9 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 ---
 
 ## 🛠️ Quello che voglio imparare 
-[![Arduino](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino3.svg)]
-[![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg)]
-[![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)]
+![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+![Arduino](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg)
 
 ---
 ## 📊 Statistiche GitHub
@@ -33,7 +33,7 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 ## 🌐 Contatti
 
 [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)](https://www.instagram.com/mi_chyii/)
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:mlmichyiyiy@gmail.com)
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg)](mailto:mlmichyiyiy@gmail.com)
 [![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/zayromi)
 
 ---
