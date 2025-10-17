@@ -23,12 +23,6 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 ![Arduino](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg)
 
 ---
-## 📊 Statistiche GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zayromi&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayromi&layout=compact&theme=radical)
-
----
 
 ## 🌐 Contatti
 
