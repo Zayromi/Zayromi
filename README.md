@@ -12,17 +12,15 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 ![Arduino](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg)
 
 ---
-## I miei Os 
+## Il mio os
 ![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
-![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
 
 ---
 
 ## 🛠️ Quello che voglio imparare 
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![Js](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Arduino](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino3.svg)]
+[![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg)]
+[![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)]
 
 ---
 ## 📊 Statistiche GitHub
@@ -36,7 +34,7 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 
 [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg)](https://www.instagram.com/mi_chyii/)
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:mlmichyiyiy@gmail.com)
-[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](https://github.com/zayromi)
+[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/zayromi)
 
 ---
 
