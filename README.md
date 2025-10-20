@@ -20,6 +20,7 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 ## 🛠️ Quello che voglio imparare 
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
 ![Arduino](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg)
 
 ---
