@@ -9,7 +9,7 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 
 
 ## 👨‍🏫 Cosa sto studiando?
-![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
 
 ---
 ## Il mio os
@@ -19,6 +19,7 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 
 ## 🛠️ Quello che voglio imparare 
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
 ![Arduino](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg)
