@@ -8,8 +8,9 @@ Ciao! Sono **Michele**, un ragazzo e **studente di seconda ITIS** appassionato d
 Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 
 
-## 👨‍🏫 Cosa sto studiando?
+## 👨‍🏫 Cosa sto studiando
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 
 ---
 ## Il mio os
@@ -21,7 +22,7 @@ Mi piace capire come funzionano le cose e adoro imparare **facendo progetti**
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
+![Javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
 ![Arduino](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg)
 
 ---
